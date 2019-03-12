@@ -1,0 +1,3 @@
+nohup nice -n 10 ./sum.plx in
+
+

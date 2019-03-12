@@ -1,0 +1,8 @@
+nohup nice -n 10 ./add_d_cuda.plx sample OUTmax
+
+# Run the run_add_d_cuda.plx script and give the directory of the tracks of the players are.
+# run_localcorr.plx will run the same script but instead of analysing the match at once it will 
+# do it one by one for each pair. This will make it much faster.
+# Note: the script was tested and run on
+# linux (Ubuntu, 18.04.2 LTS (Bionic Beaver), 4.15.0-43-generic) using
+# perl 5, version 26, subversion 1 (v5.26.1) built for x86_64-linux-gnu-thread-multi

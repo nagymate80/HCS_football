@@ -1,0 +1,2 @@
+nvcc localcorrC.cu	# file extension should be .cu
+./a.out INPUT.txt OUTPUT.txt

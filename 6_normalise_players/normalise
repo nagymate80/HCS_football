@@ -1,0 +1,2 @@
+nohup nice -n 10 ./normalise.plx Player
+
