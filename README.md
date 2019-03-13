@@ -1,5 +1,6 @@
 # HCS_football
 Calculation of Highly Correlated Segments (HCS) from players positional data
+(given in the directory: 0_SampleData)
 
 ############################################################################
 Pipeline to run the scripts which are modular and calculate only part of 
